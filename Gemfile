@@ -11,7 +11,7 @@ gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.9'
 gem 'libv8'
 gem 'execjs'
-gem 'therubyracer', :platforms => :ruby
+gem 'therubyracer', '0.12.1', :platforms => :ruby
 gem 'nokogiri', '1.6.4.1'
 gem 'rbenv-rehash'
 
